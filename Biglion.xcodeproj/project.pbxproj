@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55B5D0FE2E764056BF075EEC /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E50CAD65CE5D4F8DB9498818 /* libPods.a */; };
 		662438D7196DBA2300AE20ED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 662438D6196DBA2300AE20ED /* Foundation.framework */; };
 		662438D9196DBA2300AE20ED /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 662438D8196DBA2300AE20ED /* CoreGraphics.framework */; };
 		662438DB196DBA2300AE20ED /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 662438DA196DBA2300AE20ED /* UIKit.framework */; };
@@ -21,6 +22,12 @@
 		662438F8196DBA2400AE20ED /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 662438DA196DBA2300AE20ED /* UIKit.framework */; };
 		66243900196DBA2400AE20ED /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 662438FE196DBA2400AE20ED /* InfoPlist.strings */; };
 		66243902196DBA2400AE20ED /* BiglionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 66243901196DBA2400AE20ED /* BiglionTests.m */; };
+		6624390E196DBAF600AE20ED /* Data.json in Resources */ = {isa = PBXBuildFile; fileRef = 6624390D196DBAF600AE20ED /* Data.json */; };
+		66243912196DBB7F00AE20ED /* Manager.m in Sources */ = {isa = PBXBuildFile; fileRef = 66243911196DBB7F00AE20ED /* Manager.m */; };
+		66243916196DC29800AE20ED /* Deal.m in Sources */ = {isa = PBXBuildFile; fileRef = 66243915196DC29800AE20ED /* Deal.m */; };
+		6624391A196DC78700AE20ED /* DealFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 66243919196DC78700AE20ED /* DealFactory.m */; };
+		6624391D196DCE0B00AE20ED /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6624391C196DCE0B00AE20ED /* TableViewController.m */; };
+		66243920196DD0FC00AE20ED /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6624391F196DD0FC00AE20ED /* TableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		53E99B8E26B54C35A9248A7E /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		662438D3196DBA2300AE20ED /* Biglion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Biglion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		662438D6196DBA2300AE20ED /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		662438D8196DBA2300AE20ED /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +61,18 @@
 		662438FD196DBA2400AE20ED /* BiglionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BiglionTests-Info.plist"; sourceTree = "<group>"; };
 		662438FF196DBA2400AE20ED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		66243901196DBA2400AE20ED /* BiglionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BiglionTests.m; sourceTree = "<group>"; };
+		6624390D196DBAF600AE20ED /* Data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Data.json; sourceTree = "<group>"; };
+		66243910196DBB7F00AE20ED /* Manager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Manager.h; path = Managers/Manager.h; sourceTree = "<group>"; };
+		66243911196DBB7F00AE20ED /* Manager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Manager.m; path = Managers/Manager.m; sourceTree = "<group>"; };
+		66243914196DC29800AE20ED /* Deal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Deal.h; path = Models/Deal.h; sourceTree = "<group>"; };
+		66243915196DC29800AE20ED /* Deal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Deal.m; path = Models/Deal.m; sourceTree = "<group>"; };
+		66243918196DC78700AE20ED /* DealFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DealFactory.h; path = Factory/DealFactory.h; sourceTree = "<group>"; };
+		66243919196DC78700AE20ED /* DealFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DealFactory.m; path = Factory/DealFactory.m; sourceTree = "<group>"; };
+		6624391B196DCE0B00AE20ED /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		6624391C196DCE0B00AE20ED /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		6624391E196DD0FC00AE20ED /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		6624391F196DD0FC00AE20ED /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+		E50CAD65CE5D4F8DB9498818 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +83,7 @@
 				662438D9196DBA2300AE20ED /* CoreGraphics.framework in Frameworks */,
 				662438DB196DBA2300AE20ED /* UIKit.framework in Frameworks */,
 				662438D7196DBA2300AE20ED /* Foundation.framework in Frameworks */,
+				55B5D0FE2E764056BF075EEC /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,6 +107,7 @@
 				662438FB196DBA2400AE20ED /* BiglionTests */,
 				662438D5196DBA2300AE20ED /* Frameworks */,
 				662438D4196DBA2300AE20ED /* Products */,
+				53E99B8E26B54C35A9248A7E /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,6 +127,7 @@
 				662438D8196DBA2300AE20ED /* CoreGraphics.framework */,
 				662438DA196DBA2300AE20ED /* UIKit.framework */,
 				662438F5196DBA2400AE20ED /* XCTest.framework */,
+				E50CAD65CE5D4F8DB9498818 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -117,6 +140,14 @@
 				662438E8196DBA2400AE20ED /* Main.storyboard */,
 				662438EB196DBA2400AE20ED /* ViewController.h */,
 				662438EC196DBA2400AE20ED /* ViewController.m */,
+				6624391B196DCE0B00AE20ED /* TableViewController.h */,
+				6624391C196DCE0B00AE20ED /* TableViewController.m */,
+				6624391E196DD0FC00AE20ED /* TableViewCell.h */,
+				6624391F196DD0FC00AE20ED /* TableViewCell.m */,
+				66243917196DC76500AE20ED /* Factory */,
+				66243913196DC27300AE20ED /* Models */,
+				6624390F196DBB6300AE20ED /* Managers */,
+				6624390D196DBAF600AE20ED /* Data.json */,
 				662438EE196DBA2400AE20ED /* Images.xcassets */,
 				662438DD196DBA2300AE20ED /* Supporting Files */,
 			);
@@ -152,6 +183,33 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		6624390F196DBB6300AE20ED /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				66243910196DBB7F00AE20ED /* Manager.h */,
+				66243911196DBB7F00AE20ED /* Manager.m */,
+			);
+			name = Managers;
+			sourceTree = "<group>";
+		};
+		66243913196DC27300AE20ED /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				66243914196DC29800AE20ED /* Deal.h */,
+				66243915196DC29800AE20ED /* Deal.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		66243917196DC76500AE20ED /* Factory */ = {
+			isa = PBXGroup;
+			children = (
+				66243918196DC78700AE20ED /* DealFactory.h */,
+				66243919196DC78700AE20ED /* DealFactory.m */,
+			);
+			name = Factory;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -159,9 +217,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 66243905196DBA2400AE20ED /* Build configuration list for PBXNativeTarget "Biglion" */;
 			buildPhases = (
+				A81CC3899DFD448386C2C5F8 /* Check Pods Manifest.lock */,
 				662438CF196DBA2300AE20ED /* Sources */,
 				662438D0196DBA2300AE20ED /* Frameworks */,
 				662438D1196DBA2300AE20ED /* Resources */,
+				29EEAC6AF9B8403A8940662E /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -231,6 +291,7 @@
 				662438EF196DBA2400AE20ED /* Images.xcassets in Resources */,
 				662438E1196DBA2300AE20ED /* InfoPlist.strings in Resources */,
 				662438EA196DBA2400AE20ED /* Main.storyboard in Resources */,
+				6624390E196DBAF600AE20ED /* Data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,14 +305,52 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		29EEAC6AF9B8403A8940662E /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A81CC3899DFD448386C2C5F8 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		662438CF196DBA2300AE20ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6624391A196DC78700AE20ED /* DealFactory.m in Sources */,
+				66243916196DC29800AE20ED /* Deal.m in Sources */,
 				662438ED196DBA2400AE20ED /* ViewController.m in Sources */,
 				662438E7196DBA2400AE20ED /* AppDelegate.m in Sources */,
 				662438E3196DBA2400AE20ED /* main.m in Sources */,
+				66243920196DD0FC00AE20ED /* TableViewCell.m in Sources */,
+				6624391D196DCE0B00AE20ED /* TableViewController.m in Sources */,
+				66243912196DBB7F00AE20ED /* Manager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,6 +472,7 @@
 		};
 		66243906196DBA2400AE20ED /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 53E99B8E26B54C35A9248A7E /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -386,6 +486,7 @@
 		};
 		66243907196DBA2400AE20ED /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 53E99B8E26B54C35A9248A7E /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -456,6 +557,7 @@
 				66243907196DBA2400AE20ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		66243908196DBA2400AE20ED /* Build configuration list for PBXNativeTarget "BiglionTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +566,7 @@
 				6624390A196DBA2400AE20ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

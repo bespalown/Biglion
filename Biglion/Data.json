@@ -1,0 +1,1898 @@
+{
+result: {
+all_deals_count: 313,
+show_count: 36,
+reviews_exist: 1,
+deals: [
+        {
+        likes: 182,
+        id: 877017,
+        cat_id: 54,
+        name: "Скоростные рейсы на «Метеоре» из Санкт-Петербурга в Петергоф и обратно от компании Peterhof Express",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/47/9a/479a30c2974e861d66d6631249a75343.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Скоростные рейсы из Санкт-Петербурга в Петергоф от Peterhof Express",
+        end_date: 1404936000,
+        quantity: 12515,
+        is_nomap: "0",
+        company: {
+        id: 52629,
+        name: "Peterhof Express",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 413306,
+                name: "г. Санкт-Петербург, Адмиралтейская наб., д. 2 (центральная пристань «Спуск со львами» у Дворцового моста)",
+                geo_coord: "30.311107,59.938599",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "109",
+        max_discount: "54",
+        discount: "54",
+        special_price: "0",
+        is_only_discount: "1",
+        exists_places: 1,
+        total_rating_count: 4.6,
+        total_review_count: 7
+        },
+        {
+        likes: 17,
+        id: 899350,
+        cat_id: 54,
+        name: "2 билета на посещение представления «Жаркое лето в Дельфинарии Купчино!». Улыбки, волшебные брызги, море позитива и океан настроения!",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/1d/68/1d68b467c5718f9d9c2b4c4b054685f3.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "2 билета на посещение представления «Жаркое лето в Дельфинарии Купчино!»",
+        end_date: 1404936000,
+        quantity: 191,
+        is_nomap: "0",
+        company: {
+        id: 67482,
+        name: "Дельфинарий в Купчино",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 435712,
+                name: "г. Санкт-Петербург, ул. Фучика, д. 2а",
+                geo_coord: "30.359320,59.876960",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "104818"
+                               }
+                               ],
+        original_price: "100",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "1",
+        exists_places: 1,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 2,
+        id: 900922,
+        cat_id: 54,
+        name: "3 часа игры в боулинг в любой день в новом клубе BigBen Bowling (386 руб. вместо 2970 руб.)",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/b0/42/b042199ef7367f27348f13a8e01690f3.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "3 часа игры в боулинг в любой день в новом клубе BigBen Bowling",
+        end_date: 1405108800,
+        quantity: 16,
+        is_nomap: "0",
+        company: {
+        id: 63897,
+        name: "BigBen Bowling",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 437655,
+                name: "г. Санкт-Петербург, ул. Коллонтай, д. 3",
+                geo_coord: "30.44695,59.912806",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "65611"
+                               }
+                               ],
+        original_price: "2970",
+        max_discount: "87",
+        discount: "87",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.3,
+        total_review_count: 71
+        },
+        {
+        likes: 6,
+        id: 900384,
+        cat_id: 56,
+        name: "Получение прав категории «А» (мотоцикл) в автошколе «СВЕТОФОР»: теория и практика (3000 руб. вместо 15 000 руб.)",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/ae/68/ae68cb1a8b24d3186f9dd0b0a291d81b.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Получение прав категории «А» (мотоцикл) в автошколе «СВЕТОФОР»",
+        end_date: 1404936000,
+        quantity: 24,
+        is_nomap: "0",
+        company: {
+        id: 40990,
+        name: "Автошкола «СВЕТОФОР»",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 436736,
+                name: "г. Санкт-Петербург, ул. Казанская, д. 7",
+                geo_coord: "30.321213,59.932292",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436739,
+                name: "г. Санкт-Петербург, ул. Бабушкина, д. 40",
+                geo_coord: "30.443303,59.877795",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436705,
+                name: "г. Санкт-Петербург, ул. Генерала Хрулева, д. 13",
+                geo_coord: "30.284876,59.994783",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436707,
+                name: "г. Санкт-Петербург, Комендантский пр-т, д. 34",
+                geo_coord: "30.241434,60.021897",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436710,
+                name: "г. Санкт-Петербург, ул. Есенина, д. 18, к. 2",
+                geo_coord: "30.334571,60.044801",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436714,
+                name: "г. Санкт-Петербург, Средний пр-т В. О., д. 36/40",
+                geo_coord: "30.275938,59.942011",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436717,
+                name: "г. Санкт-Петербург, ул. Камышовая, д. 38",
+                geo_coord: "30.220314,60.008923",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436719,
+                name: "г. Санкт-Петербург, ул. Большая Зеленина, д. 2/42",
+                geo_coord: "30.29553,59.959242",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436722,
+                name: "г. Санкт-Петербург, ул. Яхтенная, д. 3",
+                geo_coord: "30.216263,59.985111",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436727,
+                name: "г. Санкт-Петербург, ул. Ушинского, д. 33",
+                geo_coord: "30.414270,60.039643",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436731,
+                name: "г. Санкт-Петербург, ул. Котина, д. 2, к. 3",
+                geo_coord: "30.209256,59.856356",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436734,
+                name: "г. Санкт-Петербург, ул. Пулковская, д. 11",
+                geo_coord: "30.348495,59.838928",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436744,
+                name: "г. Всеволожск, ул. Межевая, д. 21",
+                geo_coord: "30.635354,60.024545",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436749,
+                name: "г. Сертолово, ул. Молодцова, д. 4/2 (СОШ № 2)",
+                geo_coord: "30.217485,60.141873",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436754,
+                name: "г. Всеволожск, микр-н Южный, ул. Центральная, д. 8",
+                geo_coord: "30.644301,59.992578",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 436761,
+                name: "г. Санкт-Петербург, ул. Репищева, д. 14 (автодром)",
+                geo_coord: "30.282316,60.026325",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "90018"
+                               }
+                               ],
+        original_price: "15000",
+        max_discount: "80",
+        discount: "80",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 52,
+        id: 887968,
+        cat_id: 53,
+        name: "Гуакамоле бургер, Лоу Карб Биг Марбл бургер, Гавайский бургер и Чилипеньо бургер со скидкой 50% в сети ресторанов Carl’s Jr.",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/4c/88/4c8865b4c10c71f6ad04e325af19de51.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Бургеры в сети ресторанов Carl's Jr. за полцены",
+        end_date: 1404936000,
+        quantity: 4309,
+        is_nomap: "0",
+        company: {
+        id: 44516,
+        name: "Carl's Jr.",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 426006,
+                name: "г. Санкт-Петербург, пл. Сенная, д.&nbsp;9",
+                geo_coord: "30.317287,59.927238",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426008,
+                name: "г. Санкт-Петербург, пр-т Загородный, д.&nbsp;70",
+                geo_coord: "30.320620,59.916951",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426009,
+                name: "г. Санкт-Петербург, ул. Железноводская, д.&nbsp;68",
+                geo_coord: "30.234184,59.948929",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426010,
+                name: "г. Санкт-Петербург, пр-т Культуры, д.&nbsp;1, ТРК «Родео Драйв»",
+                geo_coord: "30.367928,60.033594",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426012,
+                name: "г. Санкт-Петербург, ш. Выборгское, д. 503, к. 1, лит. А (ТРК «Призма»)",
+                geo_coord: "30.254360,60.102235",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426013,
+                name: "г. Санкт-Петербург, пр-т Энгельса, д.&nbsp;154, ТРК «Гранд Каньон»",
+                geo_coord: "30.334984,60.058987",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426016,
+                name: "г. Санкт-Петербург, пр-т Просвещения, д. 84/1",
+                geo_coord: "30.416902,60.037000",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426017,
+                name: "г. Санкт-Петербург, пр-т Индустриальный, д.&nbsp;24, ТРК «Июнь»",
+                geo_coord: "30.474043,59.946067",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426018,
+                name: "г. Санкт-Петербург, ул. Типанова, д. 21а, ТРК «Питер» ",
+                geo_coord: "30.339485,59.853397",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426019,
+                name: "г. Санкт-Петербург, ш. Пулковское, д.&nbsp;25, к.&nbsp;1, лит. А, ТРК «Лето»",
+                geo_coord: "30.317018,59.819775",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426020,
+                name: "г. Санкт-Петербург, ул. Савушкина, д.&nbsp;126, лит. А, ТРК «Атлантик сити»",
+                geo_coord: "30.202797,59.985899",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426022,
+                name: "г. Санкт-Петербург, пр-т Коломяжский, д.17а, к.&nbsp;2, ТРК «Сити Молл»",
+                geo_coord: "30.298917,60.005432",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426024,
+                name: "г. Санкт-Петербург, пр-т Приморский, д.&nbsp;72, лит. А, ТРК «Питерлэнд» ",
+                geo_coord: "30.210029,59.981577",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426025,
+                name: "г. Санкт-Петербург, пр-т Лахтинский, д.&nbsp;85, к.&nbsp;2, лит. А, ТК&nbsp;«Аура Бутик»",
+                geo_coord: "30.144838,59.994027",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426026,
+                name: "г. Санкт-Петербург, ул. Пражская, д. 48/50, ТРК «Южный полюс»",
+                geo_coord: "30.403499,59.863699",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426028,
+                name: "г. Санкт-Петербург, пр-т Лиговский, д. 153, ТРК «ЛиговЪ»",
+                geo_coord: "30.347534,59.914854",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426029,
+                name: "г. Санкт-Петербург, ул. Малая Садовая, д.&nbsp;8",
+                geo_coord: "30.338101,59.934218",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426030,
+                name: "г. Санкт-Петербург, пр-т Литейный, д.&nbsp;47",
+                geo_coord: "30.347839,59.937900",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426032,
+                name: "г. Санкт-Петербург, пр-т Чернышевского, д.&nbsp;10",
+                geo_coord: "30.359778,59.947171",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426034,
+                name: "г. Колпино, ул. Октябрьская, д.&nbsp;8, ТК&nbsp;«ОКА»",
+                geo_coord: "30.622903,59.738983",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 423245,
+                name: "г. Санкт-Петербург, Торфяная дорога, д. 2, к. 1 (ТК «Старая Деревня)",
+                geo_coord: "30.254779,59.988524",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 423247,
+                name: "г. Санкт-Петербург, ул. Коллонтай, д. 3 (ТРК «Лондон Молл»)",
+                geo_coord: "30.446950,59.912806",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 423248,
+                name: "г. Санкт-Петербург, пр-т Лиговский, д. 34 (ТРЦ «Галерея»)",
+                geo_coord: "30.36071,59.927256",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 423249,
+                name: "г. Санкт-Петербург, Балканская пл., д. 5 (ТРK «Балкания Nova-2»)",
+                geo_coord: "30.375974,59.831829",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 423250,
+                name: "г. Санкт-Петербург, Комендантская пл., д. 1, лит. А (ТРК «Атмосфера СПБ»)",
+                geo_coord: "30.259741,60.007596",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426657,
+                name: "г. Санкт-Петербург, Заневский пр-т, д. 71, к. 1, лит. А (ТРК «Заневский каскад — 3», 4 эт.)",
+                geo_coord: "30.440258,59.933181",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426015,
+                name: "Ленинградская обл., пересечение КАД и пр. Энгельса ТК «МЕГА Парнас»",
+                geo_coord: "30.354783,59.431783",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426038,
+                name: "г. Тюмень, ул. 50 лет Октября, д. 14 (ТРК «Магеллан»)",
+                geo_coord: "65.567125,57.152472",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426040,
+                name: "г. Тюмень, ул. Пермякова, д. 50б (ТРЦ «Солнечный»)",
+                geo_coord: "65.577258,57.118457",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426283,
+                name: "г. Нижний Новгород, ул. Родионова, д. 187 (ТРЦ «Фантастика»)",
+                geo_coord: "44.073414,56.307991",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 426284,
+                name: "г. Нижневартовск, ул. Чапаева, д. 27 (ТРК «Европа Сити»)",
+                geo_coord: "76.597826,60.939642",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "20",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "1",
+        exists_places: 1,
+        total_rating_count: 0.2,
+        total_review_count: 4
+        },
+        {
+        likes: 3,
+        id: 901250,
+        cat_id: 54,
+        name: "Полет в аэротрубе продолжительностью 3, 5 или 10 минут от компании Freefly",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/4f/19/4f198fb878c983da644c79023c58a3ae.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Полет в аэротрубе продолжительностью 3, 5 или 10 минут от компании Freefly",
+        end_date: 1405281600,
+        quantity: 5,
+        is_nomap: "0",
+        company: {
+        id: 67740,
+        name: "Freefly",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 438115,
+                name: "г. Санкт-Петербург, Выборгское ш., д. 212",
+                geo_coord: "30.293352,60.068191",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: ""
+                               }
+                               ],
+        original_price: "2300",
+        max_discount: "57",
+        discount: "57",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 11,
+        id: 900433,
+        cat_id: 54,
+        name: "Проведение дня рождения, экскурсия или самостоятельный осмотр экспозиции музея занимательной науки «ЛабиринтУм»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/c7/7b/c77b74288424a9e299563ed783f6f201.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Посещение музея занимательной науки «ЛабиринтУм»",
+        end_date: 1404936000,
+        quantity: 162,
+        is_nomap: "0",
+        company: {
+        id: 67589,
+        name: "ЛабиринтУм",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 436602,
+                name: "г. Санкт-Петербург, ул. Льва Толстого, д. 9а, МФЦ «Толстой Сквер» (отдельный вход)",
+                geo_coord: "30.315728,59.964996",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "80971"
+                               }
+                               ],
+        original_price: "400",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 12,
+        id: 893601,
+        cat_id: 54,
+        name: "2 экстремальных заезда в картинг-клубе «PitStop Драйв» (600 руб. вместо 1200 руб.)",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/9d/bd/9dbdca7a3f4f54c48c964505b7ad6d9e.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "2 экстремальных заезда в картинг-клубе «PitStop Драйв»",
+        end_date: 1404936000,
+        quantity: 158,
+        is_nomap: "0",
+        company: {
+        id: 66875,
+        name: "PitStop Драйв",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 429777,
+                name: "г. Санкт-Петербург, пр-т Культуры, д. 1",
+                geo_coord: "30.367528,60.033594",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: ""
+                               }
+                               ],
+        original_price: "1200",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 5,
+        total_review_count: 1
+        },
+        {
+        likes: 5,
+        id: 898724,
+        cat_id: 52,
+        name: "Компьютерная томография одной или нескольких анатомических областей тела на аппарате Toshiba Aquilion 16 в «Северо-западном медицинском центре»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/cf/70/cf709a0b11d47655550cb4ef95ed63a0.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Компьютерная томография одной или нескольких анатомических областей тела",
+        end_date: 1404936000,
+        quantity: 15,
+        is_nomap: "0",
+        company: {
+        id: 67418,
+        name: "Медицинский центр «Северо-Западный»",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 434436,
+                name: "г. Санкт-Петербург, ул. Боровая, д. 55",
+                geo_coord: "30.338986,59.911189",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: ""
+                               }
+                               ],
+        original_price: "2800",
+        max_discount: "51",
+        discount: "51",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 0,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 24,
+        id: 878799,
+        cat_id: 53,
+        name: "Всё меню и напитки в ресторане мексиканской кухни «Мехико» со скидкой 50%",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/dd/f5/ddf5d6eff8b69b0e47653184c0655f15.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Всё меню и напитки в ресторане мексиканской кухни «Мехико» за полцены",
+        end_date: 1404936000,
+        quantity: 1267,
+        is_nomap: "0",
+        company: {
+        id: 37126,
+        name: "Ресторан «Мехико»",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 417273,
+                name: "г. Санкт-Петербург, ул. Некрасова, д. 1/38",
+                geo_coord: "30.349618,59.938802",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PCODE_LABEL_EDA10",
+                               value: "1"
+                               },
+                               {
+                               system_name: "PCODE_LABEL_EDA30",
+                               value: "1"
+                               }
+                               ],
+        original_price: "200",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "1",
+        exists_places: 1,
+        total_rating_count: 4.8,
+        total_review_count: 16
+        },
+        {
+        likes: 24,
+        id: 891665,
+        cat_id: 51,
+        name: " Европейский и классический маникюр c покрытием Shellaс, профессиональный nail-art, массаж для рук и ног и многое другое в салоне Street Style",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/39/fc/39fc549f9e1a54bcf82c456f8b33a78e.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Маникюр с покрытием Shellaс, nail-art и другие услуги салона Street Style",
+        end_date: 1404936000,
+        quantity: 133,
+        is_nomap: "0",
+        company: {
+        id: 66689,
+        name: "Street Style",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 427438,
+                name: "г. Санкт-Петербург, ул. Фурштатская, д. 8",
+                geo_coord: "30.350642,59.945351",
+                phone: "+7 (812) 924-43-35",
+                worktime: ""
+                },
+                {
+                id: 432667,
+                name: "г. Санкт-Петербург, Набережная р. Карповки, д. 5",
+                geo_coord: "30.316416,59.968029",
+                phone: "+7 (812) 964-92-42",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "69750"
+                               }
+                               ],
+        original_price: "1200",
+        max_discount: "67",
+        discount: "67",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 12,
+        id: 890980,
+        cat_id: 52,
+        name: "Годовое обслуживание для одного или двоих в стоматологии премиум-класса «Город улыбок»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/f5/52/f5521fd91cf42c95fc456914137383b7.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Годовое обслуживание для одного или двоих в стоматологии «Город улыбок»",
+        end_date: 1404936000,
+        quantity: 10,
+        is_nomap: "0",
+        company: {
+        id: 20366,
+        name: "Город улыбок",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 426874,
+                name: "г. Санкт-Петербург, наб. Черной речки, д. 41",
+                geo_coord: "30.308767,59.984878",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "68829"
+                               }
+                               ],
+        original_price: "56000",
+        max_discount: "93",
+        discount: "93",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.4,
+        total_review_count: 15
+        },
+        {
+        likes: 10,
+        id: 901175,
+        cat_id: 54,
+        name: "Однодневный круиз для одного или двоих на остров Валаам на «Метеоре» от компании «НеваФлот»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/ce/34/ce347d08f16949e31c0366caa9e86866.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Однодневный круиз на остров Валаам от компании «Невафлот»",
+        end_date: 1405281600,
+        quantity: 11,
+        is_nomap: "0",
+        company: {
+        id: 67722,
+        name: "НеваФлот",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 436869,
+                name: "г. Санкт-Петербург, пр-т Обуховской Обороны, д. 195 (Речной вокзал)",
+                geo_coord: "30.458835,59.869544",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: ""
+                               }
+                               ],
+        original_price: "3300",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 28,
+        id: 901203,
+        cat_id: 60,
+        name: "Печать фотографий «Премиум» разного формата на бумаге Kodak ROYAL или Fuji Supreme от национального сервиса печати netPrint.ru",
+        city_id: 1,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/3f/82/3f82c8fa935d4f5abd8f906459265af2.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Печать фотографий «Премиум» разного формата от netPrint.ru",
+        end_date: 1405281600,
+        quantity: 241,
+        is_nomap: "1",
+        company: {
+        id: 44752,
+        name: "netPrint.ru",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 437931,
+                name: "вся Россия",
+                geo_coord: "99.879571,61.759877",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "76000"
+                               }
+                               ],
+        original_price: "790",
+        max_discount: "67",
+        discount: "67",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.9,
+        total_review_count: 44
+        },
+        {
+        likes: 0,
+        id: 901206,
+        cat_id: 51,
+        name: "Кислородная биоревитализация, микродермабразия лица, шеи и зоны декольте или пилинги в Салоне Аппаратной Косметологии",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/3f/0b/3f0bb452ffed92173a07345312ab60e2.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Биоревитализация, микродермабразия лица, шеи и зоны декольте или пилинги",
+        end_date: 1405281600,
+        quantity: 2,
+        is_nomap: "0",
+        company: {
+        id: 37530,
+        name: "Салон Аппаратной Косметологии",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 438060,
+                name: "г. Санкт-Петербург, пр-т Лиговский, д. 75/77, лит. 18а (вход под арку)",
+                geo_coord: "30.356354,59.925208",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "94403"
+                               }
+                               ],
+        original_price: "2500",
+        max_discount: "70",
+        discount: "70",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.5,
+        total_review_count: 52
+        },
+        {
+        likes: 0,
+        id: 901272,
+        cat_id: 51,
+        name: "Традиционный тайский массаж или программа «Тайский релакс» для одного или двоих в «Мастерской эстетических технологий»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/a2/c1/a2c14ca7764f7c2f0669ffcba36d0601.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Традиционный тайский массаж в «Мастерской эстетических технологий»",
+        end_date: 1405281600,
+        quantity: 2,
+        is_nomap: "0",
+        company: {
+        id: 61848,
+        name: "Мастерская эстетических технологий",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 438015,
+                name: "г. Санкт-Петербург, Литейный пр-т, д. 52",
+                geo_coord: "30.348536,59.936284",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 438314,
+                name: "г. Санкт-Петербург, ул. Савушкина, д. 143",
+                geo_coord: "30.201094,59.989421",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "68470"
+                               }
+                               ],
+        original_price: "3500",
+        max_discount: "73",
+        discount: "73",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 5,
+        total_review_count: 3
+        },
+        {
+        likes: 1,
+        id: 901204,
+        cat_id: 51,
+        name: "Биоэпиляция ног, зоны бикини, подмышечных впадин, рук и других зон, а также 30 минут солярия бесплатно в салоне Lux & Fresco",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/61/76/6176d0144d5f21bf17c4948bac1561bf.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Биоэпиляция различных зон и 30 минут солярия в салоне Lux & Fresco",
+        end_date: 1405281600,
+        quantity: 3,
+        is_nomap: "0",
+        company: {
+        id: 63251,
+        name: "Салон красоты Lux & Fresco",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 438200,
+                name: "г. Санкт-Петербург, ул. Серпуховская, д. 11",
+                geo_coord: "30.322307,59.915806",
+                phone: "+7 (812) 575-90-30, +7 (812) 942-64-95",
+                worktime: ""
+                },
+                {
+                id: 438201,
+                name: "г. Санкт-Петербург, ул. Бородинская, д. 13",
+                geo_coord: "30.333412,59.924228",
+                phone: "+7 (812) 570-70-09, +7 (812) 903-06-40",
+                worktime: ""
+                },
+                {
+                id: 438203,
+                name: "г. Санкт-Петербург, пр-т Невский, д. 71, 3 эт. (ТЦ «Невский Атриум», салон Fresco)",
+                geo_coord: "30.355212,59.931342",
+                phone: "+7 (812) 600-51-35, +7 (905) 213-63-36",
+                worktime: ""
+                },
+                {
+                id: 438202,
+                name: "г. Санкт-Петербург, 12-я Красноармейская ул., д. 3",
+                geo_coord: "30.305762,59.911611",
+                phone: "+7 (812) 251-52-22",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "68995"
+                               }
+                               ],
+        original_price: "2000",
+        max_discount: "71",
+        discount: "71",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 3.1,
+        total_review_count: 100
+        },
+        {
+        likes: 1,
+        id: 901255,
+        cat_id: 54,
+        name: "Целый день на скалодроме для компании до 3 человек или посещение веревочного городка в экстрим-центре Rock Town",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/31/09/3109f619f00e9b0902c8ad0333f5e2ab.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Целый день на скалодроме или посещение веревочного городка",
+        end_date: 1405281600,
+        quantity: 1,
+        is_nomap: "0",
+        company: {
+        id: 57593,
+        name: "Rock Town ",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 438257,
+                name: "г. Санкт-Петербург, ул. Новолитовская, д. 15д (вход через парковку с торца мебельного центра «Аквилон»)",
+                geo_coord: "30.356814,59.980470",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "750",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 5,
+        total_review_count: 1
+        },
+        {
+        likes: 0,
+        id: 901379,
+        cat_id: 63,
+        name: "Билет на концерт Still Got Gary Moore: Remember Show в клубе-ресторане Jagger (320 руб. вместо 640 руб.)",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/bc/42/bc420cecc66d14daf95108d6af72da18.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Билет на концерт Still Got Gary Moore: Remember Show в клубе Jagger ",
+        end_date: 1405022400,
+        quantity: 2,
+        is_nomap: "0",
+        company: {
+        id: 52487,
+        name: "Jagger",
+        geo_coord: "30.302932,59.853627"
+        },
+        sites: [
+                {
+                id: 438525,
+                name: "г. Санкт-Петербург, пл. Конституции, д. 2",
+                geo_coord: "30.302932,59.853627",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "69006"
+                               }
+                               ],
+        original_price: "640",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.5,
+        total_review_count: 110
+        },
+        {
+        likes: 2,
+        id: 901252,
+        cat_id: 54,
+        name: "1, 2 или 3 часа игры в лазертаг для компании до 10 человек от клуба Spectr",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/a9/bb/a9bb359fc01bee6ead6fb89692cc5658.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "1, 2 или 3 часа игры в лазертаг для компании до 10 человек от клуба Spectr",
+        end_date: 1405281600,
+        quantity: 0,
+        is_nomap: "1",
+        company: {
+        id: 67741,
+        name: "Spectr",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 438253,
+                name: "г. Санкт-Петербург",
+                geo_coord: "69.273933,9.013947",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "72141"
+                               }
+                               ],
+        original_price: "500",
+        max_discount: "55",
+        discount: "55",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 0,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 0,
+        id: 901032,
+        cat_id: 53,
+        name: "Ужин для двоих или компании до 8 персон или банкет до 40 человек в ресторане Empire",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/55/40/55405b7195231f49d0372141c1eaa06f.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Ужин для двоих или компании до 8 персон или банкет в ресторане Empire",
+        end_date: 1405281600,
+        quantity: 0,
+        is_nomap: "1",
+        company: {
+        id: 67696,
+        name: "Ресторан Empire",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 437323,
+                name: "г. Санкт-Петербург, пр-т Пятилеток, д. 14, к. 1",
+                geo_coord: "30.453499,59.923256",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "131681"
+                               }
+                               ],
+        original_price: "3000",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 0,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 100,
+        id: 889679,
+        cat_id: 54,
+        name: "Ночная прогулка на теплоходе к разводным мостам для одного, двоих или четверых от компании «Новая река»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/58/4f/584f625ae11e314712b1cea91e358527.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Ночная речная прогулка к разводным мостам от компании «Новая река»",
+        end_date: 1404936000,
+        quantity: 746,
+        is_nomap: "0",
+        company: {
+        id: 30420,
+        name: "Компания «Новая река»",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 425465,
+                name: "г. Санкт-Петербург, наб. реки Фонтанки, д. 34 (причал «Шереметевский дворец»)",
+                geo_coord: "30.345739,59.936341",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: ""
+                               }
+                               ],
+        original_price: "900",
+        max_discount: "56",
+        discount: "56",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.4,
+        total_review_count: 192
+        },
+        {
+        likes: 69,
+        id: 889680,
+        cat_id: 54,
+        name: "Дневные и вечерние прогулки по рекам и каналам Санкт-Петербурга для 1, 2 или 4 человек от компании «Новая Река»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/5d/57/5d5760066f6d3c38de908e3adda22406.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Прогулки по рекам и каналам Санкт-Петербурга от компании «Новая Река»",
+        end_date: 1404936000,
+        quantity: 1084,
+        is_nomap: "0",
+        company: {
+        id: 30420,
+        name: "Компания «Новая река»",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 425471,
+                name: "г. Санкт-Петербург, наб. р. Фонтанки, д. 34 (причал «Шереметевский дворец»)",
+                geo_coord: "30.345339,59.936341",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "600",
+        max_discount: "53",
+        discount: "53",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.4,
+        total_review_count: 192
+        },
+        {
+        likes: 21,
+        id: 895407,
+        cat_id: 51,
+        name: "Необратимое разрушение и удаление жировых отложений с помощью безоперационной липосакции на аппарате Tite FX от медицинского центра «Амориа»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/b5/6a/b56a06f8b8966d030f74bee63efc2c7d.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Безоперационная липосакция Tite FX от медицинского центра «Амориа»",
+        end_date: 1404936000,
+        quantity: 68,
+        is_nomap: "0",
+        company: {
+        id: 66226,
+        name: "Амориа",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 431920,
+                name: "г. Санкт-Петербург, ул. Серпуховская, д. 22",
+                geo_coord: "30.324303,59.914601",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "65627"
+                               }
+                               ],
+        original_price: "36000",
+        max_discount: "95",
+        discount: "95",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.7,
+        total_review_count: 95
+        },
+        {
+        likes: 29,
+        id: 893281,
+        cat_id: 51,
+        name: "Романтическое spa-свидание Love Story с ужином в ресторане TiAmo или spa-программа для двоих без ужина от сети салонов Dr. Wise",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/85/dd/85ddd1b88541338178d754edfa203d7c.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Романтическое spa-свидание Love Story с ужином в ресторане TiAmo",
+        end_date: 1404936000,
+        quantity: 22,
+        is_nomap: "0",
+        company: {
+        id: 48370,
+        name: "Dr. Wise",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 428968,
+                name: "г. Санкт-Петербург, Литейный пр-т, д. 52",
+                geo_coord: "30.348585,59.936323",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 428969,
+                name: "г. Санкт-Петербург, Малый пр-т П. С., д. 72а",
+                geo_coord: "30.302483,59.963822",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 428971,
+                name: "г. Санкт-Петербург, ул. Фурштатская, д. 44",
+                geo_coord: "30.362320,59.945234",
+                phone: "",
+                worktime: ""
+                },
+                {
+                id: 428736,
+                name: "г. Санкт-Петербург, ул. Савушкина, д. 143",
+                geo_coord: "30.201115,59.989428",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "75769"
+                               }
+                               ],
+        original_price: "6400",
+        max_discount: "69",
+        discount: "69",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 1.3,
+        total_review_count: 1
+        },
+        {
+        likes: 2,
+        id: 900604,
+        cat_id: 51,
+        name: "Spa-маникюр, spa-педикюр или классический маникюр и педикюр с покрытием лечебным или цветным лаком в spa-салоне Bonheur Jeunesse",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/36/d0/36d09616a9316f55bd7056775d17e94d.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Spa-маникюр, spa-педикюр, маникюр и педикюр в spa-салоне Bonheur Jeunesse",
+        end_date: 1404936000,
+        quantity: 32,
+        is_nomap: "0",
+        company: {
+        id: 54822,
+        name: "Bonheur Jeunesse",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 436580,
+                name: "г. Санкт-Петербург, Лиговский пр-т, д. 44 (во дворе)",
+                geo_coord: "30.359859,59.925881",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "69445"
+                               }
+                               ],
+        original_price: "1300",
+        max_discount: "69",
+        discount: "69",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 3.9,
+        total_review_count: 15
+        },
+        {
+        likes: 6,
+        id: 890737,
+        cat_id: 52,
+        name: "Комплексное гинекологическое и урологическое обследования в медицинском центре «Аврора»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/08/e7/08e7bbbf31874353a4059ebdacf23128.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Гинекологическое и урологическое обследования в медцентре «Аврора»",
+        end_date: 1404936000,
+        quantity: 35,
+        is_nomap: "0",
+        company: {
+        id: 32023,
+        name: "Аврора",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 426469,
+                name: "г. Санкт-Петербург, ул. Крыленко, д. 43, к. 2, лит. А",
+                geo_coord: "30.493645,59.899726",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "66661"
+                               }
+                               ],
+        original_price: "3800",
+        max_discount: "64",
+        discount: "64",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.3,
+        total_review_count: 101
+        },
+        {
+        likes: 24,
+        id: 888539,
+        cat_id: 54,
+        name: "20 минут захватывающего полета на флайборде на Крестовском острове от компании FlyJets",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/6e/86/6e8612c2f6363ddf5512051d3dd1aa9b.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "20 минут захватывающего полета на флайборде от компании FlyJets",
+        end_date: 1404936000,
+        quantity: 56,
+        is_nomap: "0",
+        company: {
+        id: 52485,
+        name: "FlyJets",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 423914,
+                name: "г. Санкт-Петербург, Крестовский остров, Южная дорога, д. 4/1",
+                geo_coord: "30.241991,59.967489",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "68962"
+                               }
+                               ],
+        original_price: "6650",
+        max_discount: "65",
+        discount: "65",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 0,
+        total_review_count: 0
+        },
+        {
+        likes: 2,
+        id: 901009,
+        cat_id: 51,
+        name: "Шугаринг, восковая и ультразвуковая эпиляция ног, зоны бикини, подмышечных впадин в студии «АлМар»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/a3/b2/a3b270ad5efa67b3df740eb2e4165fdb.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Шугаринг, восковая и ультразвуковая эпиляция различных зон в студии «АлМар»",
+        end_date: 1405195200,
+        quantity: 15,
+        is_nomap: "0",
+        company: {
+        id: 26690,
+        name: "АлМар",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 437540,
+                name: "г. Санкт-Петербург, пр-т Лиговский, д. 10/118 (Бизнес центр «Октябрьская», вход со стороны ул. 1-ая Советская)",
+                geo_coord: "30.362410,59.932315",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "69709"
+                               }
+                               ],
+        original_price: "2150",
+        max_discount: "80",
+        discount: "80",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.5,
+        total_review_count: 48
+        },
+        {
+        likes: 3,
+        id: 901063,
+        cat_id: 52,
+        name: "Ультразвуковая чистка зубов, AirFlow, полировка и фторирование в стоматологическом центре «Перл+» (690 руб. вместо 3000 руб.)",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/0d/c3/0dc3e18dc43eab1196cfa33ec44c0277.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "УЗ-чистка зубов, AirFlow, полировка и фторирование в стоматологии «Перл+»",
+        end_date: 1405195200,
+        quantity: 15,
+        is_nomap: "0",
+        company: {
+        id: 52777,
+        name: "Перл+",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 437801,
+                name: "г. Санкт-Петербурог, Большой Сампсониевский пр-т, д. 80",
+                geo_coord: "30.333610,59.984823",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "83445"
+                               }
+                               ],
+        original_price: "3000",
+        max_discount: "77",
+        discount: "77",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.5,
+        total_review_count: 13
+        },
+        {
+        likes: 47,
+        id: 885250,
+        cat_id: 54,
+        name: "Карта с денежным лимитом 4000 руб. для посещения всех аттракционов и развлекательных аппаратов в центре Fun City",
+        city_id: 1,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/fa/62/fa621686e3804354ddd5ce1133b1addc.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Funатичное лето — дешевле уже не будет! Игровые карты в РЦ Fun City",
+        end_date: 1404936000,
+        quantity: 1190,
+        is_nomap: "0",
+        company: {
+        id: 64068,
+        name: "Fun City",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 421469,
+                name: "г. Москва, Химкинский бул., вл. 7/23",
+                geo_coord: "37.449462,55.849883",
+                phone: "+7 (495) 604-13-56, +7 (495) 604-13-57",
+                worktime: ""
+                },
+                {
+                id: 421932,
+                name: "г. Москва, пр-т Мира, д. 211",
+                geo_coord: "37.662596,55.846133",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "4000",
+        max_discount: "80",
+        discount: "80",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.5,
+        total_review_count: 251
+        },
+        {
+        likes: 5,
+        id: 880877,
+        cat_id: 51,
+        name: "Spa-программы по уходу за телом и лицом от салона премиум-класса Юлии Вертинской ",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/f3/fe/f3fe319f1a6eaa962017b8f6777c81ab.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Spa-программы по уходу за телом и лицом от салона премиум-класса",
+        end_date: 1404936000,
+        quantity: 23,
+        is_nomap: "0",
+        company: {
+        id: 65857,
+        name: "Салон премиум-класса Юлии Вертинской",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 419070,
+                name: "г. Санкт-Петербург, пл. Чернышевского, д. 5",
+                geo_coord: "30.317315,59.869123",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "3166",
+        max_discount: "70",
+        discount: "70",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.9,
+        total_review_count: 12
+        },
+        {
+        likes: 5,
+        id: 889718,
+        cat_id: 51,
+        name: "Колорирование, биозавивка, стрижка, укладка и окрашивание волос от студии эстетической красоты «Кокетка»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs13/deal_offer/bc/89/bc89e22d40232bc017787c5cfda481e9.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Колорирование, биозавивка, стрижка, укладка и окрашивание волос",
+        end_date: 1404936000,
+        quantity: 45,
+        is_nomap: "0",
+        company: {
+        id: 61653,
+        name: "Кокетка",
+        geo_coord: "30.363290,59.931310"
+        },
+        sites: [
+                {
+                id: 425545,
+                name: "г. Санкт-Петербург, Лиговский пр-т, д. 10/118, оф. 5130 (БЦ «Октябрьская», вход с ул. 1-я Советская)",
+                geo_coord: "30.362670,59.932468",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [
+                               {
+                               system_name: "PB_ID",
+                               value: "69216"
+                               }
+                               ],
+        original_price: "1500",
+        max_discount: "64",
+        discount: "64",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 4.3,
+        total_review_count: 41
+        },
+        {
+        likes: 10,
+        id: 889694,
+        cat_id: 56,
+        name: "Подготовься к незабываемому отпуску на авторских тренингах Екатерины Любимовой в тренинг-центре «Секс.рф»",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/08/8d/088d4b0f7288f89f919c149a55ca9182.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Посещение тренинга на выбор от центра «Секс.рф»",
+        end_date: 1404936000,
+        quantity: 118,
+        is_nomap: "0",
+        company: {
+        id: 61167,
+        name: "Тренинг-центр «Секс.рф»",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 425551,
+                name: "г. Санкт-Петербург, Дмитровский пер., д. 13",
+                geo_coord: "30.349232,59.929529",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "4000",
+        max_discount: "63",
+        discount: "63",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 5,
+        total_review_count: 2
+        },
+        {
+        likes: 4,
+        id: 900940,
+        cat_id: 54,
+        name: "Прогулка на парусной яхте по Финскому заливу и фортам Кронштадта от компании «КонтурБалт» ",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/19/dc/19dcc9e90cc2fa47de875461a1c8805a.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Прогулка на парусной яхте по Финскому заливу и фортам Кронштадта",
+        end_date: 1405108800,
+        quantity: 4,
+        is_nomap: "1",
+        company: {
+        id: 65803,
+        name: "КонтурБалт",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 437102,
+                name: "Место стоянки яхты",
+                geo_coord: "15.170479,45.802386",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "4800",
+        max_discount: "50",
+        discount: "50",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 1,
+        total_rating_count: 3.3,
+        total_review_count: 4
+        },
+        {
+        likes: 18,
+        id: 877238,
+        cat_id: 51,
+        name: "Окрашивание Paul Mitchell, стрижка горячими ножницами по технике Toni & Guy или Vidal Sassoon, калифорнийское мелирование или другие процедуры по уходу за волосами от салона красоты премиум-класса Exclusive",
+        city_id: 18,
+        image: "http://st.biglion.ru/c/w/273/h/154/cfs15/deal_offer/c1/eb/c1eb20fb45e3b4fc5b485e52787ae40f.jpg",
+        our_delivery: "0",
+        not_show_discount_str: "0",
+        status: "0",
+        short_name: "Окрашивание Paul Mitchell, стрижка по технике Toni & Guy или Vidal Sassoon",
+        end_date: 1404936000,
+        quantity: 85,
+        is_nomap: "0",
+        company: {
+        id: 60544,
+        name: "Exclusive",
+        geo_coord: ""
+        },
+        sites: [
+                {
+                id: 415413,
+                name: "г. Санкт-Петербург, ул. Восстания, д. 16",
+                geo_coord: "30.359751,59.936580",
+                phone: "",
+                worktime: ""
+                }
+                ],
+        object_extended_info: [ ],
+        original_price: "3150",
+        max_discount: "81",
+        discount: "81",
+        special_price: "0",
+        is_only_discount: "0",
+        exists_places: 0,
+        total_rating_count: 0,
+        total_review_count: 0
+        }
+        ],
+notices: [ ],
+time: 1404928622,
+error: 0
+}
+}
+result.deals[0]+-View sourceoptions

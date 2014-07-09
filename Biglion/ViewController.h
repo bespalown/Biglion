@@ -10,4 +10,11 @@
 
 @interface ViewController : UIViewController
 
+//public
+@property (nonatomic, strong) NSString* imageString;
+@property (nonatomic, strong) NSString* titleString;
+
+@property (weak, nonatomic) IBOutlet UIImageView *image;
+@property (weak, nonatomic) IBOutlet UILabel *detailTitle;
+
 @end

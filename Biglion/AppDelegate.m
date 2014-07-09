@@ -13,6 +13,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    _manager = [Manager new];
+    [[UINavigationBar appearance] setBarTintColor:[UIColor orangeColor]];
+
     return YES;
 }
 							
